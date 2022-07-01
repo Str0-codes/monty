@@ -8,7 +8,6 @@
 
 void _push(stack_t **stack, unsigned int line_number)
 {
-	stack_t *newline;
 	char *av;
 	int push_av;
 
